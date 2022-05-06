@@ -16,8 +16,7 @@ Socket.ioを使ったリアルタイムチャットアプリです。
 ## 使用ツール
 
 フロント：Vue.js（VueCLI,Vuex,VueRouter）  
-バック：Node.js（axios,express,Socket.io）  
-インフラ：AWS（EC2,Route53）  
+バック：Node.js（axios,express,Socket.io）    
 
 ## デモページ
 
