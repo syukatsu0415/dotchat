@@ -12,7 +12,6 @@ Socket.ioを使ったリアルタイムチャットアプリです。
 【依存：Socket.io、Socketio-client、express、axios、vue-axios】  
   
 以上
-
 ## デモページ
 
 http://chat.syukatsu0415.com:3000/
