@@ -1,6 +1,7 @@
 # dotchat -レトロ風オープンチャットアプリケーション-
 
-Socket.IOを使ったリアルタイムチャットアプリです。
+Socket.ioを使ったリアルタイムチャットアプリです。
+一応SPAになっています。
 
 ## セットアップ
 
@@ -23,6 +24,6 @@ This sample code is under [MIT license](https://en.wikipedia.org/wiki/MIT_Licens
 ## その他
 
 素材は以下のサイトからお借りしています。  
-アバター：DOTOWN(https://dotown.maeda-design-room.net/)  
-背景：illustAC(https://www.ac-illust.com/)  
-フォント：美咲フォント(https://littlelimit.net/misaki.htm)  
+アバター：DOTOWN (https://dotown.maeda-design-room.net/)  
+背景：illustAC (https://www.ac-illust.com/)  
+フォント：美咲フォント (https://littlelimit.net/misaki.htm)  
