@@ -7,9 +7,9 @@ Socket.ioを使ったリアルタイムチャットアプリです。
 
 1: Node.js、VueCLIをインストール  
 2: VueCLIのUI上でプロジェクトを新規作成し、下記のプリセットを選択  
-プリセット：Babel、router、vuex、eslint  
-32: VueCLIの依存、またはnpmを使用し下記をインストール  
-依存：Socket.io、Socketio-client、express、axios、vue-axios  
+【プリセット：Babel、router、vuex、eslint】  
+3: VueCLIの依存、またはnpmを使用し下記をインストール  
+【依存：Socket.io、Socketio-client、express、axios、vue-axios】  
   
 以上
 
