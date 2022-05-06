@@ -12,6 +12,13 @@ Socket.ioを使ったリアルタイムチャットアプリです。
 【依存：Socket.io、Socketio-client、express、axios、vue-axios】  
   
 以上
+
+## 使用ツール
+
+フロント：Vue.js（VueCLI,Vuex,VueRouter）  
+バック：Node.js（axios,express,Socket.io）  
+インフラ：AWS（EC2,Route53）  
+
 ## デモページ
 
 http://chat.syukatsu0415.com:3000/
